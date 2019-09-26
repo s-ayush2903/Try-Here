@@ -1,9 +1,5 @@
-# Try-Here
-<<<<<<< HEAD
-Try Pulling 
+What the hack is going on
 
-Great to find thing .....
-Trying Again//////
-=======
-Try Pulling 
->>>>>>> upstream/master
+
+jsdakfjhlasdfow qe[qwehp
+s]
