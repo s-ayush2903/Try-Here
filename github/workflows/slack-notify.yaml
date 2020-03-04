@@ -1,3 +1,5 @@
+- name: Slack Notify
+  uses: rtCamp/action-slack-notify@v2.0.1
 on: push
 name: Slack Notification Demo
 jobs:
